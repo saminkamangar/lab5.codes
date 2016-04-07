@@ -1,0 +1,2 @@
+load('testSet.mat');
+a = testData(:,1);
